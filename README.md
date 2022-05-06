@@ -9,7 +9,7 @@
     This is a solution to the <a href='https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H'>QR code component challenge on Frontend Mentor</a>.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://davitjabushanuri.github.io/qr-code-component/">View Demo</a>
     ·
     <a href="https://github.com/davitJabushanuri/qr-code-component/issues">Report Bug</a>
   </p>
@@ -61,10 +61,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -77,9 +73,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
